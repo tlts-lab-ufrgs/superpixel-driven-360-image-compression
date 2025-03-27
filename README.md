@@ -1,2 +1,2 @@
-# superpixel-driven-360-image-compression
-Coming soon.
+# Superpixel-driven 360° Image Compression
+Source code coming soon.
